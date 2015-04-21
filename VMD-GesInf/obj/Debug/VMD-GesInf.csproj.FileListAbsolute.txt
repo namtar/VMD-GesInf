@@ -1,0 +1,8 @@
+D:\VisualStudio\projects\VMD-GesInf\VMD-GesInf\bin\Debug\VMD-GesInf.exe.config
+D:\VisualStudio\projects\VMD-GesInf\VMD-GesInf\bin\Debug\VMD-GesInf.exe
+D:\VisualStudio\projects\VMD-GesInf\VMD-GesInf\bin\Debug\VMD-GesInf.pdb
+D:\VisualStudio\projects\VMD-GesInf\VMD-GesInf\obj\Debug\VMD-GesInf.csprojResolveAssemblyReference.cache
+D:\VisualStudio\projects\VMD-GesInf\VMD-GesInf\obj\Debug\VMD_GesInf.Properties.Resources.resources
+D:\VisualStudio\projects\VMD-GesInf\VMD-GesInf\obj\Debug\VMD-GesInf.csproj.GenerateResource.Cache
+D:\VisualStudio\projects\VMD-GesInf\VMD-GesInf\obj\Debug\VMD-GesInf.exe
+D:\VisualStudio\projects\VMD-GesInf\VMD-GesInf\obj\Debug\VMD-GesInf.pdb
